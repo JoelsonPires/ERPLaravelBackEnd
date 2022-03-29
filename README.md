@@ -1,6 +1,7 @@
 Instalação Back-End
 -----------------------
-O projeto esta com todas as configurações,não sendo ignorado no .env
+O projeto esta com todas as configurações,não sendo ignorado no .env para facilitar.
+O mesmo serve ao FrontEnd(https://github.com/JoelsonPires/ERPVueFrontEnd-.git)
 
 Após clonar o projeto, instale as dependências com o comando:
 ```composer install
@@ -23,4 +24,4 @@ Realize o start do server
 
 composer run serve 
 
-Neste momento o servidor esta ativo.
+Neste momento o servidor estara ativo.
