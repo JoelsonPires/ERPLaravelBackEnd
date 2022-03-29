@@ -1,5 +1,7 @@
 Instalação Back-End
 -----------------------
+O projeto esta com todas as configurações,não sendo ignorado no .env
+
 Após clonar o projeto, instale as dependências com o comando:
 ```composer install
 
