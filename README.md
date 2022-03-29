@@ -3,7 +3,7 @@ Instalação Back-End
 O projeto esta com todas as configurações,não sendo ignorado no .env
 
 Após clonar o projeto, instale as dependências com o comando:
-``composer install
+```composer install
 
 ```Apos as dependencias terem sido instaladas configure as variaveis de ambiente que se encontra no arquivo **.env** 
 banco de que irá utilizar.
